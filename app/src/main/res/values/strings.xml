@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GoogleAppExDemo</string>
+    <!--google-->
+    <string name="server_client_id">412190330375-1ab70cdmdvfuk9jd4almicfl2ve7ldep.apps.googleusercontent.com</string>
+</resources>
